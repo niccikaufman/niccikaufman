@@ -4,16 +4,13 @@
   </p>
 
 ## Follow me on my journey to becoming a web developer! 
-- 🌱 I’m currently learning intermediate Javascript and CSS
+- 🌱 I’m currently learning intermediate Javascript, more CSS, and intro to Ruby
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/niccikaufman/)
 - 😄 Pronouns: they/them/she/her
 
 > Sometimes you gotta stop thinking about something to figure it out. -Amos Burton
 
-## 2021 Goals:
-- [ ] Get a tech job
-
-
+## My Progress So Far!
 |_Week One Achievements_|_Week Two Achievements_|_Week Three Achievements_|_Week Four Achievements_|
 |---|---|---|---|
 |Git|Javascript (beginner)|Arrays|Javascript (intermediate)|
@@ -21,3 +18,9 @@
 |HTML (intermediate)|Functions|Separation of logic|Constructors and prototypes|
 |CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|
 |BootStrap|JQuery|Regular expressions|Switch cases|
+
+## 2021 Goals:
+- [ ] Get a tech job
+- [ ] Make a CSS animation from scratch
+- [ ] Connect with at least 30 other developers on LinkedIn
+- [ ] Contribute to an open-source project
