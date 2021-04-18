@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning intermediate Javascript and CSS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/niccikaufman/)
 - 😄 Pronouns: they/them/she/her
-- Current favorite quote: 
-  > Sometimes you gotta stop thinking about something to figure it out. -Amos Burton
+
+> Sometimes you gotta stop thinking about something to figure it out. -Amos Burton
 
 ## 2021 Goals:
 - [ ] Get a tech job
