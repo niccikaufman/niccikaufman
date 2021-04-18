@@ -13,9 +13,9 @@
 ## My Progress So Far!
 |_Week One Achievements_|_Week Two Achievements_|_Week Three Achievements_|_Week Four Achievements_|
 |---|---|---|---|
-|Git|Javascript (beginner)|Arrays|Javascript (intermediate)|
-|Markdown|Data Types|Looping|Objects|
-|HTML (intermediate)|Functions|Separation of logic|Constructors and prototypes|
+|Git|Methods|Arrays|Ruby (beginner)|
+|Markdown|Functions|Looping|Objects|
+|HTML (intermediate)|Data Types|Separation of logic|Constructors and prototypes|
 |CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|
 |BootStrap|JQuery|Regular expressions|Switch cases|
 
