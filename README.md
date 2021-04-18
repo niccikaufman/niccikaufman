@@ -1,10 +1,14 @@
 ### Hi there 👋
-<img width="110" alt="my-avatar-laptop" src="https://user-images.githubusercontent.com/80174138/115131167-c4cda400-9faa-11eb-854c-86b5415a9b3c.png">
+<p align="center">
+   <img width="200" height="200" alt="my-avatar-laptop" src="https://user-images.githubusercontent.com/80174138/115131167-c4cda400-9faa-11eb-854c-86b5415a9b3c.png">
+  </p>
 
-
-- 🔭 I’m currently working on an online Javascript course at Epicodus
+# Follow me along on my journey to become a web developer! 
 - 🌱 I’m currently learning intermediate Javascript and CSS
-- 💬 Ask me about Animal Crossing and I will not stop talking until you walk away
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/niccikaufman/)
 - 😄 Pronouns: they/them/she/her
+- Current favorite quote: 
+  > Sometimes you gotta stop thinking about something to figure it out. -Amos Burton
 
+## 2021 Goals:
+- [ ] Get a tech job
