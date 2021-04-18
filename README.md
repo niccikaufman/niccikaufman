@@ -14,7 +14,7 @@
 |_Week One Achievements_|_Week Two Achievements_|_Week Three Achievements_|_Week Four Achievements_|
 |---|---|---|---|
 |Git|Methods|Arrays|Literal notation|
-|Markdown|Functions|Looping|Objects and prototypes|
+|Markdown|Functions|Looping|Objects and prototype methods|
 |HTML (intermediate)|Data Types|Separation of logic|Class constructors|
 |CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|
 |BootStrap|JQuery|Regular expressions|Switch cases|
