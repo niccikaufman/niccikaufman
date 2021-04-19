@@ -11,13 +11,13 @@
 > Sometimes you gotta stop thinking about something to figure it out. -Amos Burton
 
 ## My Progress So Far!
-|_Week One Achievements_|_Week Two Achievements_|_Week Three Achievements_|_Week Four Achievements_|
-|---|---|---|---|
-|Git|Methods|Arrays|Literal notation|
-|Markdown|Functions|Looping|Objects and prototype methods|
-|HTML (intermediate)|Data Types|Separation of logic|Class constructors|
-|CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|
-|BootStrap|JQuery|Regular expressions|Switch cases|
+|_Week One_|_Week Two_|_Week Three_|_Week Four_|_Week Five_|
+|---|---|---|---|---|
+|Git|Methods|Arrays|Literal notation|Hash tables|
+|Markdown|Functions|Looping|Objects and prototype methods||
+|HTML (intermediate)|Data Types|Separation of logic|Class constructors||
+|CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling||
+|BootStrap|JQuery|Regular expressions|Switch cases||
 
 ## 2021 Goals:
 - [ ] Get a tech job
