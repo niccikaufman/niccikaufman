@@ -19,8 +19,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niccikaufman&layout=compact&langs_count=8&theme=algolia"/>
 
 ## 🗒️ My Progress So Far!
+
 |_Getting Started_|_Beg. JavaScript_|_Beg. JavaScript_|_Int. JavaScript_|
 |---|---|---|---|
 |Git|Methods|Arrays|Literal notation|
