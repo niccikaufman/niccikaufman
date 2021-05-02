@@ -4,7 +4,7 @@
   </p>
 
 ## 📒 Follow me on my journey to becoming a software engineer! 
-- 🌱  I’m learning intermediate Javascript and CSS.
+- 🌱  I’m learning intermediate JavaScript and CSS.
 - 🍕  My current project is a single page online pizza ordering site.
 - 😄  Pronouns: they/them/she/her
 
@@ -21,7 +21,7 @@
 
 
 ## 🗒️ My Progress So Far!
-|_Week One_|_Week Two_|_Week Three_|_Week Four_|
+|_Getting Started_|_Beg. JavaScript_|_Beg. JavaScript_|_Int. JavaScript_|
 |---|---|---|---|
 |Git|Methods|Arrays|Literal notation|
 |Markdown|Functions|Looping|Objects and prototype methods|
