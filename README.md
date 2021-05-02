@@ -1,7 +1,6 @@
 ### Hi there 👋
 <p align="center">
-   <img width="200" height="200" alt="my-avatar-laptop" src="https://user-images.githubusercontent.com/80174138/115131167-c4cda400-9faa-11eb-854c-86b5415a9b3c.png">
-  </p>
+   <img width="200" height="200" alt="my-avatar-laptop" src="https://user-images.githubusercontent.com/80174138/116829403-b8c01580-ab58-11eb-9dc5-c674a0d49cfc.png">
 
 ## 📒 Follow me on my journey to becoming a software engineer! 
 - 🌱  I’m learning intermediate JavaScript and CSS.
