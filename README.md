@@ -21,17 +21,19 @@
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel&logoColor=007ACC)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn&logoColor=007ACC)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=007ACC)&nbsp;
+![webpack](https://img.shields.io/badge/-webpack-05122A?style=flat&logo=webpack&logoColor=007ACC)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niccikaufman&layout=compact&langs_count=8&theme=algolia"/>
 
 ## 🗒️ My Progress So Far!
 
-|_Getting Started_|_Beg. JavaScript_|_Beg. JavaScript_|_Int. JavaScript_|
-|---|---|---|---|
-|Git|Methods|Arrays|Literal notation|
-|Markdown|Functions|Looping|Objects and prototype methods|
-|HTML (intermediate)|Data Types|Separation of logic|Class constructors|
+|_Getting Started_|_Beginner JavaScript_|_Beg. JavaScript_|_Intermediate JavaScript_|_Development Environment_|
+|---|---|---|---|---|
+|Git|Methods|Arrays|Literal notation|npm/yarn|
+|Markdown|Functions|Looping|Objects and prototype methods|webpack|
+|HTML (intermediate)|Data Types|Separation of logic|Class constructors|Linting|
 |CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|
 |BootStrap|JQuery|Regular expressions|Switch cases|
 
