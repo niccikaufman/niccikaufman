@@ -4,7 +4,7 @@
 
 ## 📒 Follow me on my journey to becoming a software engineer! 
 - 🌱  I’m learning intermediate JavaScript and CSS.
-- 🍕  My current project is a single page online pizza ordering site.
+- 🍕  My current project is a journal site.
 - 😄  Pronouns: they/them/she/her
 
 ## 🧰 Tech Stack
