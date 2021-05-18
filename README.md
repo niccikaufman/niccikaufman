@@ -34,7 +34,7 @@
 |Git|Methods|Arrays|Literal notation|npm/yarn|
 |Markdown|Functions|Looping|Objects and prototype methods|webpack|
 |HTML (intermediate)|Data Types|Separation of logic|Class constructors|Linting|
-|CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|
+|CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|Jest and Babel|
 |BootStrap|JQuery|Regular expressions|Switch cases|
 
 ## 🤝 Get in touch
