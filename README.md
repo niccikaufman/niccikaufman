@@ -35,7 +35,7 @@
 |Markdown|Functions|Looping|Objects and prototype methods|webpack|Template literals
 |HTML (intermediate)|Data Types|Separation of logic|Class constructors|Linting|Arrow notation
 |CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|Jest and Babel|Modules
-|BootStrap|JQuery|Regular expressions|Switch cases|Bad vs good fails|
+|BootStrap|JQuery|Regular expressions|Switch cases|Bad vs good fails|Object destructuring
 
 ## 🤝 Get in touch
 <a href="mailto:niccikaufman@gmail.com"><img src="https://img.shields.io/badge/-niccikaufman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
