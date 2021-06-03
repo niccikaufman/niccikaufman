@@ -29,13 +29,13 @@
 
 ## 🗒️ My Progress So Far!
 
-|_Getting Started_|_Beginner JavaScript_|_Beg. JavaScript_|_Intermediate JavaScript_|_Development Environment_|_ES6_|_Intermediate JavaScript_|
+|_Beginner JavaScript_|_Beg. JavaScript_|_Intermediate JavaScript_|_Development Environment_|_ES6_|_Int. JavaScript_|_Ruby_|
 |---|---|---|---|---|---|---|
-|Git|Methods|Arrays|Literal notation|npm/yarn|Promises|Asynchrony|
-|Markdown|Functions|Looping|Objects and prototype methods|webpack|Template literals|API calls|
-|HTML (intermediate)|Data Types|Separation of logic|Class constructors|Linting|Arrow notation|Parsing JSON|
-|CSS (beginner)|Debugging|Test-driven development|Event delegation and bubbling|Jest and Babel|Modules|SOP and CORS|
-|BootStrap|JQuery|Regular expressions|Switch cases|Bad vs good fails|Object destructuring|
+|Methods|Arrays|Literal notation|npm/yarn|Promises|Asynchrony|IRB|
+|Functions|Looping|Objects and prototype methods|webpack|Template literals|API calls|Symbols|Implicit/Explicit Return|
+|Data Types|Separation of logic|Class constructors|Linting|Arrow notation|Parsing JSON|Arity|
+|Debugging|Test-driven development|Event delegation and bubbling|Jest and Babel|Modules|SOP and CORS|String interpolation|
+|JQuery|Regular expressions|Switch cases|Bad vs good fails|Object destructuring|Asynchrony|Gems|
 
 ## 🤝 Get in touch
 <a href="mailto:niccikaufman@gmail.com"><img src="https://img.shields.io/badge/-niccikaufman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
